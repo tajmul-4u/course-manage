@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.toggle-btn{
+    @apply bg-purple-100 text-purple-500 px-4 font-semibold py-1 text-lg cursor-pointer
+}
